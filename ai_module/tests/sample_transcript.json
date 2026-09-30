@@ -1,0 +1,44 @@
+[
+  {
+    "segment_id": "seg-001",
+    "speaker": "Maya Patel",
+    "start_time": "00:00:03",
+    "end_time": "00:00:12",
+    "text": "Quick update: the dashboard wireframes are complete and ready for review."
+  },
+  {
+    "segment_id": "seg-002",
+    "speaker": "Daniel Kim",
+    "start_time": "00:00:13",
+    "end_time": "00:00:26",
+    "text": "Great. Maya, please turn those wireframes into the final dashboard design. You will own that task, and it is due by Friday, September 18."
+  },
+  {
+    "segment_id": "seg-003",
+    "speaker": "Maya Patel",
+    "start_time": "00:00:27",
+    "end_time": "00:00:36",
+    "text": "Understood. The final design depends on Leo providing the updated brand assets first."
+  },
+  {
+    "segment_id": "seg-004",
+    "speaker": "Leo Martin",
+    "start_time": "00:00:37",
+    "end_time": "00:00:48",
+    "text": "The brand assets are blocked because we are still waiting for legal approval on the new logo."
+  },
+  {
+    "segment_id": "seg-005",
+    "speaker": "Daniel Kim",
+    "start_time": "00:00:49",
+    "end_time": "00:01:02",
+    "text": "Let's proceed with the existing logo for this release so Maya can finish the dashboard on time. That is our decision."
+  },
+  {
+    "segment_id": "seg-006",
+    "speaker": "Leo Martin",
+    "start_time": "00:01:03",
+    "end_time": "00:01:12",
+    "text": "I will send Maya the existing asset package by noon today."
+  }
+]

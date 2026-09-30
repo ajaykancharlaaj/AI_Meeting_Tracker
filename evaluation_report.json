@@ -1,0 +1,22 @@
+{
+  "evaluation_name": "AI Meeting Action Tracker Multi-Meeting Evaluation",
+  "dataset_summary": {
+    "total_meetings": 5,
+    "total_speakers": 5,
+    "total_transcript_segments": 21,
+    "reconstructed_tasks_count": 5
+  },
+  "metrics": {
+    "task_identity_f1": 1.0,
+    "task_identity_precision": 1.0,
+    "task_identity_recall": 1.0,
+    "state_accuracy": 1.0,
+    "state_transition_f1": 0.8,
+    "deadline_accuracy": 1.0,
+    "evidence_f1": 1.0,
+    "dependency_f1": 1.0,
+    "contradiction_detection_f1": 1.0,
+    "current_state_accuracy": 1.0,
+    "timeline_accuracy": 1.0
+  }
+}
